@@ -1,5 +1,0 @@
-datepiker
-xpath parent and child
-robot class
-drag and drop 
-getcssvalue (color code)
